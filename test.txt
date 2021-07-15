@@ -1,1 +1,4 @@
 Pull requests practice
+
+branch : ex2 로 바뀐 뒤 수정 사항
+ex2 오류나서 ex로 바꾼 수정 사항
